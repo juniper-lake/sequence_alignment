@@ -1,5 +1,5 @@
 
-####Goal: Implement Needleman-Wunsch algorithm for global alignment of DNA sequences
+#### Pairwise global alignment of DNA sequences
 
 
 ### Description 
